@@ -6,6 +6,6 @@ Embedded firmware is specialized software permanently stored in the hardware of 
 ## What is Firmware Library?
 A firmware library is a collection of pre-written, reusable code modules or functions designed for developing embedded firmware. These libraries provide common functionalities, such as drivers for hardware components, algorithms for data processing, or utilities for error handling, allowing developers to build firmware more efficiently without reinventing the wheel. 
 For example, libraries like Arduino's core libraries offer standardized code for microcontrollers, speeding up projects while ensuring compatibility and reliability. They're often open-source, distributed via platforms like GitHub, and tailored for low-resource embedded systems to handle tasks like real-time operations or power management.  
-
+![image alt](https://github.com/HadiaKhursheed/VSD_Squadron_Internship/blob/3df24e77efbdb68436a6d72e6a486a881db244c1/Task%201/Firmware%20library.jpeg)
 ## Why APIs are important in embedded systems?
 APIs (Application Programming Interfaces) in embedded systems provide a layer of abstraction that hides the intricate details of hardware interactions, such as direct register manipulations or low-level protocols. This allows developers to focus on application logic rather than hardware specifics, reducing complexity and errors. For instance, a GPIO (General Purpose Input/Output) API might offer simple functions like setPinHigh() instead of requiring bitwise operations, making code more readable and maintainable.
