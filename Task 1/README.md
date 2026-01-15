@@ -9,3 +9,4 @@ For example, libraries like Arduino's core libraries offer standardized code for
 ![image alt](https://github.com/HadiaKhursheed/VSD_Squadron_Internship/blob/3df24e77efbdb68436a6d72e6a486a881db244c1/Task%201/Firmware%20library.jpeg)
 ## Why APIs are important in embedded systems?
 APIs (Application Programming Interfaces) in embedded systems provide a layer of abstraction that hides the intricate details of hardware interactions, such as direct register manipulations or low-level protocols. This allows developers to focus on application logic rather than hardware specifics, reducing complexity and errors. For instance, a GPIO (General Purpose Input/Output) API might offer simple functions like setPinHigh() instead of requiring bitwise operations, making code more readable and maintainable.
+![image alt](https://github.com/HadiaKhursheed/VSD_Squadron_Internship/blob/b3819148b3d2c78746014056e991053bc6121ace/Task%201/API%20in%20Embedded%20system.jpeg)
